@@ -8,11 +8,11 @@ A Python-based Discord bot is designed to wait for commands on a Discord server 
 - **Command Execution:** Executes system commands received via Discord messages and returns the output directly to the channel.
 - **Message Handling:** Responds to specific text commands (e.g., `!cmd <command>`) and replies with command results or error messages.
 
-## Features
+## Requirements
 
-- **Startup Notification:** Sends a message to a specified Discord channel upon startup, indicating the user logged into Windows.
-- **Command Execution:** Executes system commands received via Discord messages and returns the output directly to the channel.
-- **Message Handling:** Responds to specific text commands (e.g., `!cmd <command>`) and replies with command results or error messages.
+- Python 3.x
+- `discord.py` library
+- Windows operating system
 
 ## Configuration
 
